@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-composition-cards/static/css/main.39cd6ce6.chunk.css",
+    "main.js": "/ra-composition-cards/static/js/main.c55c4a43.chunk.js",
+    "main.js.map": "/ra-composition-cards/static/js/main.c55c4a43.chunk.js.map",
+    "runtime-main.js": "/ra-composition-cards/static/js/runtime-main.c039de5d.js",
+    "runtime-main.js.map": "/ra-composition-cards/static/js/runtime-main.c039de5d.js.map",
+    "static/js/2.96fd489e.chunk.js": "/ra-composition-cards/static/js/2.96fd489e.chunk.js",
+    "static/js/2.96fd489e.chunk.js.map": "/ra-composition-cards/static/js/2.96fd489e.chunk.js.map",
+    "static/js/3.e631d6e7.chunk.js": "/ra-composition-cards/static/js/3.e631d6e7.chunk.js",
+    "static/js/3.e631d6e7.chunk.js.map": "/ra-composition-cards/static/js/3.e631d6e7.chunk.js.map",
+    "index.html": "/ra-composition-cards/index.html",
+    "static/css/main.39cd6ce6.chunk.css.map": "/ra-composition-cards/static/css/main.39cd6ce6.chunk.css.map",
+    "static/js/2.96fd489e.chunk.js.LICENSE.txt": "/ra-composition-cards/static/js/2.96fd489e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c039de5d.js",
+    "static/js/2.96fd489e.chunk.js",
+    "static/css/main.39cd6ce6.chunk.css",
+    "static/js/main.c55c4a43.chunk.js"
+  ]
+}
